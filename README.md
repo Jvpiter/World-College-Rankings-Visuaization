@@ -20,7 +20,7 @@ Education.R
 
 
 ToMatrix.py 
-- The main script that changes the dataset into an appropriate adjacency matrix. The script was run 6 times with slight changes to generate 6 different adjacency matrix. These were union merged in Influence.R and Education.R. 
+- The main script that changes the dataset into an appropriate adjacency matrix. The script was run 6 times with slight changes to generate 6 different adjacency matrices. These were union merged in Influence.R and Education.R. 
 
 
 Other .py files 
