@@ -10,21 +10,26 @@
 
 Contents:
 
--Influence.R
+
+Influence.R
 
 Generates the network associated with the "influence" of the colleges. Should be run last.
 
--Education.R
+
+Education.R
 
 Generates the network associated with the "education quality" of the colleges. Should be run last.
 
--ToMatrix.py 
+
+ToMatrix.py 
 
 The main script that changes the dataset into an appropriate adjacency matrix. The script was run 6 times with slight changes to generate 6 different adjacency matrix. These were union merged in Influence.R and Education.R. 
 
--Other .py files
+
+Other .py files
 
 Used for preprocessing. Returns txt files used by Influence.R and Education.R. Can be combined into one script.
 
--PDF files
+
+PDF files
 Network sample images. The college "influence" network and a community graph. Generated with Gephi using R output.
